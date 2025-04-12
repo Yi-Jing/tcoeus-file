@@ -1,0 +1,14 @@
+.title {
+  background: #459cf2;
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+.list {
+  list-style: none;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}

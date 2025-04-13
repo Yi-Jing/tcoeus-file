@@ -1,5 +1,5 @@
 <div class="flex flex-col justify-center items-center w-full h-full relative">
-  <h1 class="title">要怎麼知道自己的權限呢？</h1>
+  <h1 class="title">要怎麼知道自己有哪些權限呢？</h1>
 </div>
 
 ---

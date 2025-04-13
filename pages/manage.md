@@ -18,9 +18,9 @@ transition: fade-out
 <div class="w-full h-full flex justify-center items-center relative">
   <img class="w-full h-full object-contain" src="/images/manage/02.png">
 </div>
-<v-click>
-  <span class="absolute bottom-20 left-[400px]">透過建立群組來設定可操作範圍</span>
-</v-click>
+<div v-click class="absolute bottom-20 left-[400px]">
+  透過建立群組來設定可操作範圍
+</div>
 
 ---
 transition: fade-out
@@ -28,7 +28,7 @@ transition: fade-out
 
 <div class="w-full h-full flex justify-center items-center relative">
   <img class="w-full h-full object-contain" src="/images/manage/03.png">
-  <Mark type="circle" :at="1" width="70" height="40" top="70" right="115" />
+  <Mark type="circle" width="70" height="40" top="70" right="115" />
 </div>
 <div v-click="2" class="absolute top-[320px] left-1/2">
   建立帳號來新增使用者

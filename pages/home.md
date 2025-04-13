@@ -5,8 +5,10 @@
 
   <div v-click="1">
     <Mark type="underline" width="310" height="40" top="300" left="350" />
-    <span class="absolute bottom-[90px] left-[400px]">
-      選擇代理來快速開啟聊天室
+    <span class="absolute bottom-[60px] left-[360px]">
+      成功登入後可以輸入文字開始聊天，
+      <br/>
+      也能透過系統幫您設定的代理來開啟
     </span>
   </div>
 </div>

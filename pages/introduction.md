@@ -15,7 +15,7 @@ transition: fade-out
     </li>
     <li v-click="3" class="list">
       <span class="font-bold">🌐 可設定的語言模型</span>
-      <span>：選擇語言模型或上傳文件以進行 RAG（檢索增強生成），作為未來代理設定的基礎資料</span>
+      <span>：選擇大語言模型或上傳文件以進行 RAG（檢索增強生成），作為未來代理設定的基礎資料</span>
     </li>
     <li v-click="4" class="list">
       <span class="font-bold">👩🏻‍💻 多元的代理種類</span>
@@ -25,7 +25,7 @@ transition: fade-out
     </li>
     <li v-click="5" class="list">
       <span class="font-bold">💬 專屬的聊天室</span>
-      <span>：向 AI 聊天機器人提出問題，機器人將根據代理設定提供相應的回答</span>
+      <span>：向 AI 聊天機器人提出問題，AI 將根據代理設定提供相應的回答</span>
     </li>
     <li v-click="6" class="list">
       <span class="font-bold">⚙️ 系統的權限管理</span>

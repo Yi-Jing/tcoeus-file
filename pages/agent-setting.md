@@ -10,6 +10,9 @@ transition: fade-out
   <img class="w-full h-full object-contain" src="/images/agent-setting/01.png">
   <Mark type="circle" :at="1" width="70" height="40" top="70" right="115" />
 </div>
+<div v-click="2" class="absolute top-[300px] right-[300px]">
+  設定一組代理來開啟聊天室
+</div>
 
 ---
 transition: fade-out
